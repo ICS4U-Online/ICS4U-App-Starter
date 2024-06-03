@@ -10,6 +10,7 @@ cd ttyd && mkdir build && cd build
 cmake ..
 make && sudo make install
 cd ..
+cd ..
 sudo apt install ffmpeg -y
 sudo rm -r ./ttyd
 sudo apt install ./vhs_0.7.2_amd64.deb -y
