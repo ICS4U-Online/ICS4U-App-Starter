@@ -15,4 +15,3 @@ sudo rm -r ./ttyd
 sudo apt install ffmpeg -y
 sudo apt install ./vhs_0.7.2_amd64.deb -y
 sudo rm ./vhs_0.7.2_amd64.deb
-source ~/.bashrc
